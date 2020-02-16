@@ -1,0 +1,18 @@
+{
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/ayu/ayu-dark.sublime-color-scheme",
+	"dart_sdk_path": "/usr/bin/dart",
+	"dartsdk_path": "/usr/bin/dart",
+	"font_size": 12,
+	"ignored_packages":
+	[
+	],
+	"line_padding_bottom": 5,
+	"line_padding_top": 5,
+	"rulers":
+	[
+		80
+	],
+	"spell_check": false,
+	"theme": "ayu-dark.sublime-theme"
+}
